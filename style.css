@@ -257,6 +257,14 @@ footer{
         padding-top: 100px;
     }
 
+    #mobilehead div{
+        display: grid;
+    }
+
+    #mobilehead div img{
+        width: auto;
+    }
+
     #leader2{
         display: grid;
         justify-items: center;
