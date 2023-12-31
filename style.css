@@ -261,7 +261,7 @@ footer{
         display: grid;
     }
 
-     #mobilehead div img{
+    #mobilehead div img{
         width: 420px;
     }
 
@@ -269,7 +269,7 @@ footer{
         display: grid;
         justify-items: center;
         align-items: center;
-        padding: 50px;
+        padding: 50px 20px;
     }
 
     #leader2 h2{
