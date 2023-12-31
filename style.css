@@ -9,7 +9,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 95vh;
+    height: 100vh;
 }
 
 #mobilenav,
@@ -263,6 +263,8 @@ footer{
 
     #mobilehead div img{
         width: 400px;
+        margin-left: -5px;
+
     }
 
     #leader2{
