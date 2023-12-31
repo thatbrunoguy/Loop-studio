@@ -240,7 +240,7 @@ footer{
     }
 
     header div div{
-        width: 450px;
+        width: 400px;
         display: grid;
         justify-items: start;
     }
@@ -261,8 +261,8 @@ footer{
         display: grid;
     }
 
-    #mobilehead div img{
-        width: 200px;
+     #mobilehead div img{
+        width: 420px;
     }
 
     #leader2{
